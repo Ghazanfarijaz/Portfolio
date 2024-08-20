@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+92 318 1972631',
   address: 'MOQ-8-B, CPO-177 Gulshan Colony Taxila ',
   github: 'https://github.com/Ghazanfarijaz',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1kdrHcsp4HS4EIl3MvFi0IotBlOXkfCRT/view?usp=sharing"
+  facebook: 'https://www.facebook.com/ghazanfar.ijaz.332?mibextid=ZbWKwL',
+  linkedIn: 'https://www.linkedin.com/in/ghazanfar-ijaz-34021917b/',
+  twitter: '',
+  stackOverflow: 'https://stackoverflow.com/users/24919664/ghazanfar-ijaz',
+  leetcode: "https://leetcode.com/u/Ghazanfarijaz/",
+  devUsername: "Ghazanfarijaz",
+  resume: "https://drive.google.com/file/d/1lcQhkf755hocInYoaULLza66Pogq_5KV/view?usp=sharing"
 }
