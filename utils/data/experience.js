@@ -15,6 +15,6 @@ export const experiences = [
     id: 3,
     title: " Intern as Web Developer",
     company: "Quest Lab",
-    duration: "(June 2012 - July 2022)"
+    duration: "(June 2022 - July 2022)"
   }
 ]
